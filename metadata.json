@@ -1,0 +1,6 @@
+{
+  "name": "AI Terminal Chat",
+  "description": "A web-based AI chat interface styled with a dark terminal Matrix aesthetic, featuring a zero-filter system architect personality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
